@@ -1,0 +1,17 @@
+body{
+  margin: 0px 0px 0px 0px;
+  background-color: #1B5E9C;
+  padding:0px
+}
+
+header{
+  background-color: #1A754F;
+  /*Não sei qual a fonte foi utilizada no projeto, então coloquei essa de maneira provisória*/
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size:large;
+  margin-bottom: 30 px;
+}
+
+footer{
+  background-color: #1A754F;
+}
